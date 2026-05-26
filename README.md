@@ -101,4 +101,11 @@ npx tsc --noEmit
 npx expo start -c
 ```
 
+## AI Assistance & Collaboration
 
+This project was developed with the support of **Claude** (by Anthropic) acting as a professional AI pair programmer. 
+
+The AI assistance was leveraged to:
+- Establish a robust testing suite, including unit and integration tests for key screens and components.
+- Optimize build and testing configurations (such as resolving path mapping aliases for the Jest environment).
+- Perform code quality reviews, focusing on React Native optimization patterns, resource management, and accessibility best practices.
