@@ -23,7 +23,7 @@ It lets you:
 
 ## Requirements
 
-- Node.js 22.13+ (recommended for React Native 0.85 tooling)
+- Node.js 22.5.1
 - npm
 - Java 17 o superior (Requerido para compilar en Android)
 - Expo Go app on your phone (optional, for device testing)
