@@ -1,6 +1,6 @@
 # PokeApp
 
-> **Nota**: Este proyecto es un challenge desarrollado para la empresa **deCampoaCampo**.
+> **Note**: This project is a challenge developed for **deCampoaCampo**.
 
 PokeApp is a modern Pokedex built with Expo + React Native + TypeScript.
 
@@ -25,7 +25,7 @@ It lets you:
 
 - Node.js 22.5.1
 - npm
-- Java 17 o superior (Requerido para compilar en Android)
+- Java 17 or higher (Required to build for Android)
 - Expo Go app on your phone (optional, for device testing)
 
 ## Getting Started
@@ -64,8 +64,6 @@ npm run web
 
 ## Project Structure
 
-## Project Structure
-
 - `src/components/` → UI components (including `ui/` subfolder and composite components such as `PokemonDetail`).
 - `src/hooks/` → Custom React hooks (e.g., `useFavorites`).
 - `src/api/` → API client and typed models.
@@ -85,6 +83,12 @@ npm run web
 
 ## Useful Commands
 
+- Run unit tests:
+
+```bash
+npm test
+```
+
 - Type-check:
 
 ```bash
@@ -96,3 +100,5 @@ npx tsc --noEmit
 ```bash
 npx expo start -c
 ```
+
+
